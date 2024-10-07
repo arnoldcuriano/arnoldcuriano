@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ibb.co/Fs0tv3Z/github-header-image-1.png)
+![MasterHead](https://i.ibb.co/Fs0tv3Z/github-header-image-1.png)
 <h1 align="center">Hi 👋, I'm Arnold Curiano</h1>
 <h3 align="center">A passionate Full-stack Developer from Philippines</h3>
 <img align="center" alt="coding" width="400px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW1xa3BzaXI4MjlvdWFrYWZreHEwOXNqYjlicnVrc20zeDlndWV6byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp">
