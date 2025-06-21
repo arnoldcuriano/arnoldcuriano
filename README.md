@@ -28,6 +28,8 @@ I love turning ideas into reality through code. Whether it's backend APIs or int
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![WordPress](https://img.shields.io/badge/-WordPress-black?style=flat-square&logo=wordpress)
 ![Wix](https://img.shields.io/badge/-Wix-black?style=flat-square&logo=wix)
 ![GoHighLevel](https://img.shields.io/badge/-GoHighLevel-black?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzAiIGhlaWdodD0iMzAiIHZpZXdCb3g9IjAgMCAzMCAzMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB4PSIxIiB5PSIxIiB3aWR0aD0iMjgiIGhlaWdodD0iMjgiIHJ4PSIxNCIgZmlsbD0iIzQ3QjRGRiIvPjwvc3ZnPg==)
