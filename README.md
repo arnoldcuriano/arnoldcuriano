@@ -38,6 +38,9 @@ I love turning ideas into reality through code. Whether it's backend APIs or int
 ![Webflow](https://img.shields.io/badge/-Webflow-black?style=flat-square&logo=webflow)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-black?style=flat-square&logo=adobe-photoshop)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
+![ExpressJS](https://img.shields.io/badge/-ExpressJS-000000?logo=express&logoColor=white
+)
+
 
 ---
 
