@@ -5,7 +5,7 @@ I'm a **Fullstack Developer** specializing in JavaScript and Node.js.
 - 🚀 Passionate about building scalable web applications and exploring new technologies  
 - 🛠️ Top Skills: JavaScript, Node.js, and modern web frameworks  
 - 📂 Portfolio: [My GitHub Page](https://github.com/arnoldcuriano/arnoldcuriano)  
-- 🌐 [Website](https://arnoldcuriano.github.io/myportfolio/) | [LinkedIn](https://linkdin.com/in/arnold-curiano-118362223) | [X](https://x.com/arnold_curiano)
+- 🌐 [Website](https://arnoldcuriano.github.io/myportfolio/) | [LinkedIn](https://linkedin.com/in/arnold-curiano-118362223) | [X](https://x.com/arnold_curiano)
 
 ---
 
