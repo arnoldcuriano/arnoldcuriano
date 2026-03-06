@@ -1,4 +1,4 @@
-# Hi, I’m Arnold Curiano 👋
+# Hi, I’m Arnold Curiano 
 
 I'm a **Fullstack Developer** specializing in JavaScript and Node.js.
 
